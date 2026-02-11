@@ -25,6 +25,7 @@
     - [Vue](#vue)
     - [Flutter](#flutter)
     - [C/C++](#c)
+    - [Tutorials & Guides](#tutorials--guides)
 
 ## 👑Stable Diffusion
 
@@ -129,6 +130,11 @@
 
 ### C/C++
 - [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp): Stable Diffusion and Flux in pure C/C++
+
+### Tutorials & Guides
+- [Stable Diffusion Locally: Getting Started](https://insiderllm.com/guides/stable-diffusion-locally/): Complete beginner guide to running Stable Diffusion on your own hardware
+- [ComfyUI vs Automatic1111 vs Fooocus](https://insiderllm.com/guides/comfyui-vs-automatic1111-vs-fooocus/): Speed benchmarks, VRAM comparison, and which UI to choose
+- [Flux Locally: Complete Guide](https://insiderllm.com/guides/flux-locally-complete-guide/): Run Flux models on consumer GPUs with VRAM requirements and setup
 
 ## ⭐️ Star History
 
